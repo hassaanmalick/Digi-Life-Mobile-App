@@ -12,6 +12,6 @@ Just install one app and enjoy.
 - 💬 Ask me about Web Development using JQuery/React/PHP/MySql etc.
 - 📫 How to reach me: hassaanmalick2001@gmail.com
 
-**NeedPrayers**
+**Need Prayers**
 
 **JazakAllah**
